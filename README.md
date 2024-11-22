@@ -8,8 +8,6 @@
 [![masnus's 42 stats](https://badge.mediaplus.ma/binary/masnus?1337Badge=off)](https://profile.intra.42.fr/)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=medyasine&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=medyasine&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=medyasine&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
