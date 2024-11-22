@@ -9,6 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=medyasine&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=medyasine&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![masnus's 42 stats](https://badge.mediaplus.ma/binary/masnus?1337Badge=off)](https://github.com/oakoudad/badge42)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
