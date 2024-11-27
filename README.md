@@ -1,7 +1,7 @@
 
 <html>
  <p align="center">  
-    <img src="https://cdn.dribbble.com/userupload/14521988/file/original-ec97466039b0833e7eee59716637f270.gif" alt="GIF">
+    <img src="https://cdn.dribbble.com/users/41854/screenshots/2354454/pop_drop800x600.gif" alt="GIF">
   </p>
 </html>
 
