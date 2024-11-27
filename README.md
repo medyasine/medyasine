@@ -1,11 +1,7 @@
 
 <html>
  <p align="center">  
-    <img src="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif" alt="GIF">
-    <br>
-    <video controls width="600">
-      <source src="https://cdn.dribbble.com/userupload/13116672/file/original-4e6bcec2d60430922f92543bf66a7127.mp4" type="video/mp4">
-    </video>
+    <img src="https://cdn.dribbble.com/userupload/14521988/file/original-ec97466039b0833e7eee59716637f270.gif" alt="GIF">
   </p>
 </html>
 
